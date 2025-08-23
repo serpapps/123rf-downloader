@@ -11,7 +11,12 @@
   "featured_image": "images/featured.jpg",
   "featured_image_gif": "images/featured.gif",
   "github_repo_url": "https://github.com/serpapps/123rf-downloader",
-  "github_repo_tags": ["123rf-downloader", "downloader", "automation", "tools"],
+  "github_repo_tags": [
+    "123rf-downloader",
+    "downloader",
+    "automation",
+    "tools"
+  ],
   "github_gist_url": null,
   "features": [
     "Watermark-free downloads",
@@ -26,7 +31,7 @@
   "product_video": null,
   "related_videos": null,
   "changelog": null,
-  "version_number": 1.0,
+  "version_number": 1,
   "updated_at": "2025-01-23T00:00:00Z",
   "troubleshooting_instructions": [],
   "installation_instructions": "1. Clone the repository: git clone https://github.com/serpapps/123rf-downloader\n2. Install dependencies\n3. Configure settings\n4. Run the application",
@@ -38,21 +43,52 @@
     "Files will be saved to your specified directory"
   ],
   "faqs": null,
-  "supported_operating_systems": ["windows", "macos", "linux"],
+  "supported_operating_systems": [
+    "windows",
+    "macos",
+    "linux"
+  ],
   "status": "live",
-  "technologies": ["Python", "Selenium", "PIL", "Requests"],
+  "technologies": [
+    "Python",
+    "Selenium",
+    "PIL",
+    "Requests"
+  ],
   "serpco_product_page_link": "https://store.serp.co/product-details/product/123rf-downloader",
   "serpai_product_page_link": null,
   "file_formats": null,
-  "categories": ["Stock Photo Tools", "Image Downloaders", "Design Resources"],
+  "categories": [
+    "Stock Photo Tools",
+    "Image Downloaders",
+    "Design Resources"
+  ],
   "extraction_targets": null,
   "content_medium": null,
   "discovery_source": null,
   "related_articles": null,
   "related_gists": null,
-  "funding_links_github": ["devinschumacher"],
-  "funding_links_liberapay": ["serply"],
-  "funding_links_opencollective": ["serply"],
-  "funding_links_custom": ["https://serp.ly/123rf-downloader"],
-  "keywords": ["123rf", "stock photos", "vectors", "downloader", "watermark", "free", "tool"]
+  "funding_links_github": [
+    "devinschumacher"
+  ],
+  "funding_links_liberapay": [
+    "serply"
+  ],
+  "funding_links_opencollective": [
+    "serply"
+  ],
+  "funding_links_custom": [
+    "https://serpapps.github.io/123rf-downloader",
+    "https://devinschumacher.com/123rf-downloader",
+    "https://serp.co/products/123rf-downloader/reviews/"
+  ],
+  "keywords": [
+    "123rf",
+    "stock photos",
+    "vectors",
+    "downloader",
+    "watermark",
+    "free",
+    "tool"
+  ]
 }
