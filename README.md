@@ -2,9 +2,9 @@
 
 > Save 123RF stock photos and vectors without watermarks in original quality
 
-![123rf Downloader](https://raw.githubusercontent.com/serpapps/123rf-downloader/assets/images/featured.gif)
+![123rf Downloader](https://raw.githubusercontent.com/serpapps/123rf-downloader/assets/images/123rf-downloader.gif)
 
-123rf Downloader is a powerful tool that helps you save 123RF stock photos and vectors without watermarks in original quality. Built with modern technologies, it provides a seamless experience for downloading and managing content.
+123rf Downloader is a powerful tool that helps you download content from 123rf instantly without ads or popups. Built with modern technologies, it provides a seamless experience for downloading and managing content.
 
 ## 🔗 Links
 
@@ -22,12 +22,12 @@
 
 ## Features
 
-- Watermark-free downloads
-- Bulk download capabilities
-- Original resolution preservation
-- Metadata retention
-- Vector format support
-- Portfolio batch export
+- Stream-to-file conversion
+- HD quality downloads
+- Batch download support
+- Resume interrupted downloads
+- No watermarks
+- Content extraction
 
 ## Installation Instructions
 
@@ -47,11 +47,17 @@
 ## Technologies
 
 - Python
-- Selenium
-- PIL
-- Requests
+- JavaScript
+- Node.js
+- Automation
 
 ## More Info
 
 - 📁 Repository [here](https://github.com/serpapps/123rf-downloader)
+
+<details>
+<summary>Keywords</summary>
+
+123rf downloader
+</details>
 
