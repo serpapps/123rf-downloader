@@ -1,33 +1,30 @@
 {
   "id": 2,
   "created_at": "2025-01-23T00:00:00Z",
-  "seo_title": "123rf Downloader - Free Stock Photo & Vector Download Tool",
-  "seo_description": "Save 123RF stock photos and vectors without watermarks in original quality",
+  "seo_title": "123rf Downloader - Free Content Download Tool",
+  "seo_description": null,
   "product_page_url": "https://store.serp.co/product-details/product/123rf-downloader",
   "purchase_url": "https://serp.ly/123rf-downloader",
   "store_product_id": null,
   "name": "123rf Downloader",
   "tagline": "Save 123RF stock photos and vectors without watermarks in original quality",
-  "featured_image": "images/featured.jpg",
-  "featured_image_gif": "images/featured.gif",
+  "featured_image": "https://raw.githubusercontent.com/serpapps/123rf-downloader/assets/images/123rf-downloader.jpg",
+  "featured_image_gif": "https://raw.githubusercontent.com/serpapps/123rf-downloader/assets/images/123rf-downloader.gif",
   "github_repo_url": "https://github.com/serpapps/123rf-downloader",
   "github_repo_tags": [
-    "123rf-downloader",
-    "downloader",
-    "automation",
-    "tools"
+    "123rf-downloader"
   ],
   "github_gist_url": null,
   "features": [
-    "Watermark-free downloads",
-    "Bulk download capabilities",
-    "Original resolution preservation",
-    "Metadata retention",
-    "Vector format support",
-    "Portfolio batch export"
+    "Stream-to-file conversion",
+    "HD quality downloads",
+    "Batch download support",
+    "Resume interrupted downloads",
+    "No watermarks",
+    "Content extraction"
   ],
   "chrome_web_store_url": null,
-  "description": "123rf Downloader is a powerful tool that helps you save 123RF stock photos and vectors without watermarks in original quality. Built with modern technologies, it provides a seamless experience for downloading and managing content.",
+  "description": "123rf Downloader is a powerful tool that helps you download content from 123rf instantly without ads or popups. Built with modern technologies, it provides a seamless experience for downloading and managing content.",
   "product_video": null,
   "related_videos": null,
   "changelog": null,
@@ -51,17 +48,15 @@
   "status": "live",
   "technologies": [
     "Python",
-    "Selenium",
-    "PIL",
-    "Requests"
+    "JavaScript",
+    "Node.js",
+    "Automation"
   ],
-  "serpco_product_page_link": "https://store.serp.co/product-details/product/123rf-downloader",
-  "serpai_product_page_link": null,
+  "serpco_product_page_link": "https://serp.co/products/123rf-downloader/reviews/",
+  "serpai_product_page_link": "https://serp.ai/products/123rf-downloader/reviews/",
   "file_formats": null,
   "categories": [
-    "Stock Photo Tools",
-    "Image Downloaders",
-    "Design Resources"
+    "image hosting"
   ],
   "extraction_targets": null,
   "content_medium": null,
@@ -72,23 +67,18 @@
     "devinschumacher"
   ],
   "funding_links_liberapay": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_opencollective": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_custom": [
     "https://serpapps.github.io/123rf-downloader",
     "https://devinschumacher.com/123rf-downloader",
-    "https://serp.co/products/123rf-downloader/reviews/"
+    "https://serp.co/products/123rf-downloader/",
+    "https://github.com/sponsors/devinschumacher"
   ],
   "keywords": [
-    "123rf",
-    "stock photos",
-    "vectors",
-    "downloader",
-    "watermark",
-    "free",
-    "tool"
+    "123rf downloader"
   ]
 }
